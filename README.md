@@ -1,2 +1,20 @@
 # ass4
 https://github.com/sagikarach/ass4.git
+the chronologically order of the image in proof:
+1 -![Screenshot 2024-06-05 160718](https://github.com/sagikarach/ass4/assets/157322101/b2e0e510-890b-4f9c-b51c-55ebda44d464)
+2-![Screenshot 2024-06-05 162136](https://github.com/sagikarach/ass4/assets/157322101/ca5728d6-d802-4f5d-9b98-5c7858f10eb8)
+3-![Screenshot 2024-06-05 162322](https://github.com/sagikarach/ass4/assets/157322101/ca7f9158-edb0-4e9b-b24f-82f405a09712)
+4-![Screenshot 2024-06-05 162941](https://github.com/sagikarach/ass4/assets/157322101/d8324be2-b0d8-4f4e-89e1-72d182c88819)
+5-![Screenshot 2024-06-05 163411](https://github.com/sagikarach/ass4/assets/157322101/c27dd574-8d2f-4348-a2ab-f403470e5631)
+6-![Screenshot 2024-06-05 163425](https://github.com/sagikarach/ass4/assets/157322101/df1b0be0-3398-48d5-90c4-ed8b45598493)
+7-![Screenshot 2024-06-05 165915](https://github.com/sagikarach/ass4/assets/157322101/259faec2-2e21-4963-9c8d-9cb3fc5ad8df)
+8- ![Screenshot 2024-06-05 170006](https://github.com/sagikarach/ass4/assets/157322101/4786a3bd-11e6-44a7-b67d-3236b6496789)
+9-![Screenshot 2024-06-05 172713](https://github.com/sagikarach/ass4/assets/157322101/dc3f5048-9bc6-4d07-bbdd-792843f8737f)
+10-![Screenshot 2024-06-05 173624](https://github.com/sagikarach/ass4/assets/157322101/f3bdc66d-86a5-454e-a1de-c4fde51a136f)
+11-![Screenshot 2024-06-05 173637](https://github.com/sagikarach/ass4/assets/157322101/e9a27b19-814f-47c3-84ac-769d4bac08c4)
+12-![Screenshot 2024-06-05 173643](https://github.com/sagikarach/ass4/assets/157322101/42a8eecc-40f6-4850-b565-28b9d5a474f4)
+13-![Screenshot 2024-06-05 175220](https://github.com/sagikarach/ass4/assets/157322101/49ee546f-bf44-4a68-9004-02dbdc4fdb59)
+14-![Screenshot 2024-06-05 180529](https://github.com/sagikarach/ass4/assets/157322101/72659c0e-aa35-44c9-9268-29be94008e81)
+15-![Screenshot 2024-06-05 184033](https://github.com/sagikarach/ass4/assets/157322101/4af8e764-13ff-4a4c-8c86-a72c45ddcf06)
+16-![Screenshot 2024-06-05 184635](https://github.com/sagikarach/ass4/assets/157322101/fa65ca03-4c2c-42ee-a5be-7fb53a47df5d)
+17-![Screenshot 2024-06-05 184946](https://github.com/sagikarach/ass4/assets/157322101/dfd18f11-cc50-4e95-860c-4cabc83a75fa)
